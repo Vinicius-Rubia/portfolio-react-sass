@@ -1,0 +1,22 @@
+@use '../variables'
+@use '../mixins'
+
+#portfolio
+  display: flex
+  flex-wrap: wrap
+  padding: 3rem
+  gap: 3rem
+  @include mixins.mobile
+    padding: 1rem
+
+  h1
+    width: 100%
+    font-size: 5rem
+    margin-bottom: 4rem
+    background: variables.$gradient
+    -webkit-background-clip: text
+    -webkit-text-fill-color: transparent
+    @include mixins.deesktop-small
+      text-align: center
+    @include mixins.mobile
+      font-size: 4rem
