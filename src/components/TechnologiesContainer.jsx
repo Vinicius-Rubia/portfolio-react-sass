@@ -27,7 +27,7 @@ const technologies = [
     id: "js",
     name: "JavaScript",
     description:
-      "Linguagem de programação utilizada para implementar itens complexos em páginas web.",
+      "Linguagem de programação utilizada amplamente nas aplicações web, para aplicar dinamismo nas páginas",
     icon: <DiJsBadge />,
   },
   {
