@@ -1,8 +1,10 @@
-# MoviesLib - Catálogo de filmes com React
+# Portfólio
 
-O projeto consiste em um catálogo de filmes consumindo a API do TMDB de filmes.
-No projeto existe a página home onde lista os filmes mais top de acordo com a API do TMDB, e também tem a página de detalhes do filme selecionado conforme a imagem de layout. E por fim, o projeto tem a funcionalidade de filtrar os filmes pelo nome que você buscar.
+O projeto consiste em um portfólio no estilo de currículo usando React com o Vite e também o micro-processador SASS
 
+No projeto existe apenas uma página onde tem uma apresentação sobre quem está no portfólio, seu cargo e suas redes sociais, localização, formas de contato e um botão para download do currículo em PDF. Também é listado nesse projeto as tecnologias que o mesmo tem como suas habilidades e logo abaixo também tem um botão que leva ao github para ver os projetos.
+
+O projeto também conta com a responsividade para Desktop, Tablet e versões Mobile.
 
 ## Layout - Desktop
 
