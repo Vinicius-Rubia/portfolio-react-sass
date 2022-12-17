@@ -20,7 +20,7 @@ const technologies = [
   {
     id: "css",
     name: "CSS3",
-    description: "Lingaugem responsável em adicionar estilos a uma página web.",
+    description: "Linguagem responsável em adicionar estilos a uma página web.",
     icon: <DiCss3 />,
   },
   {
